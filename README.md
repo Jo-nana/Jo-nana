@@ -20,7 +20,7 @@
 </div>
 
 - 🌱 I’m currently improving my fullstack skills, next step : React JS
-- 👯 I’m looking for a Junior Fullstack position in Amsterdam
+- 🚀 I’m looking for a Junior Fullstack position in Amsterdam
 - ⚡ Fun fact: I was a video editor and film director 
 
 
