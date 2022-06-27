@@ -8,7 +8,7 @@
   </a>
    <h1> Hi there 🐱 </h1>
 <br>
-  <p> 🙋‍♀️ I'm Johanna, I'm a fullstack developer recently graduated from Le Wagon Bootcamp 🙋‍♀️</p>
+  <p> 🙋‍♀️ I'm Johanna, I'm a fullstack and frontend developer recently graduated from Le Wagon Bootcamp 🙋‍♀️</p>
   
   <div align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
@@ -20,7 +20,7 @@
 </div>
 
 - 🌱 I’m currently improving my fullstack skills, next step : React JS
-- 🚀 I’m looking for a Junior Fullstack position in Amsterdam
+- 🚀 I’m looking for a Junior Fullstack or Frontend position in Amsterdam
 - ⚡ Fun fact: I was a video editor and film director! (And yes I do love cats 🐈) 
 
 
