@@ -19,8 +19,8 @@
 ### :woman_technologist: About Me :
 </div>
 
-- 🌱 I’m currently improving my fullstack skills, next step : React JS
-- 🚀 I’m looking for a Junior Fullstack or Frontend position in Amsterdam
+- 🌱 I’m currently improving my front-end skill with React JS
+- 🚀 I’m an intern as a Front-end developer in Eenvoud, Amsterdam
 - ⚡ Fun fact: I was a video editor and film director! (And yes I do love cats 🐈) 
 
 
