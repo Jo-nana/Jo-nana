@@ -8,7 +8,7 @@
   </a>
    <h1> Hi there 🐱 </h1>
 <br>
-  <p> 🙋‍♀️ I'm Johanna, I'm a fullstack and frontend developer recently graduated from Le Wagon Bootcamp 🙋‍♀️</p>
+  <p> 🙋‍♀️ I'm Johanna, I'm a Front end developer recently graduated from Le Wagon Bootcamp 🙋‍♀️</p>
   
   <div align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
