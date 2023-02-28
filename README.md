@@ -20,7 +20,7 @@
 </div>
 
 - 🌱 I’m currently improving my front-end skill with React JS and TypeScript
-- 🚀 I’m looking for a junior front end developer in Amsterdam or Luxembourg! Open to fully remote!
+- 🚀 I’m looking for a junior front end developer position in Amsterdam or Luxembourg! Open to fully remote!
 - 🗣 I speak English and French!
 - ⚡ Fun fact: I was a video editor and film director! (And yes I do love cats 🐈) 
 - 📫 How to reach me : florangejohanna@gmail.com
